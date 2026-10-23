@@ -1,0 +1,49 @@
+name: Bug report
+description: Something in OnlyMCP does not work as it should
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Issues are public. Leave out tokens, passwords and the content of your memory files.
+        A security problem goes to admin@only-mcp.com or Security → Report a vulnerability, not here.
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Memory
+        - Skills
+        - Agents
+        - Gateway (connected MCP servers)
+        - Sign-in and OAuth
+        - Dashboard
+        - Plans and billing
+        - CLI (npx onlymcp)
+        - Something else
+    validations:
+      required: true
+  - type: input
+    id: client
+    attributes:
+      label: MCP client
+      description: Where you used OnlyMCP, with its version if you know it
+      placeholder: Claude Code 2.1, ChatGPT, Cursor, ...
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: Include the exact error message if there was one
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. ...
+        2. ...
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected instead

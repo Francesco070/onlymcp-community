@@ -1,0 +1,20 @@
+name: Feature request
+description: Something OnlyMCP should do
+labels: [enhancement]
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: What you want to do
+      description: The task or situation, not the solution yet
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: How OnlyMCP could help
+  - type: input
+    id: client
+    attributes:
+      label: MCP client
+      placeholder: Claude Code, ChatGPT, Cursor, ...

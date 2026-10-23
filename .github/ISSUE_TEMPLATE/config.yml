@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Setup and documentation
+    url: https://only-mcp.com/docs
+    about: How to connect Claude, ChatGPT, Cursor and other clients
+  - name: Account, plan or invoice
+    url: mailto:admin@only-mcp.com
+    about: Personal questions go by e-mail, not into a public issue
+  - name: Security problem
+    url: https://github.com/Francesco070/onlymcp-community/security/advisories/new
+    about: Report a vulnerability privately
