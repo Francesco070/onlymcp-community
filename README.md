@@ -14,6 +14,11 @@
 **[Report a bug](https://github.com/Francesco070/onlymcp-community/issues/new/choose)** ·
 **[Releases](https://github.com/Francesco070/onlymcp-community/releases)**
 
+[![X](https://img.shields.io/badge/X-@OnlyMCP-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/OnlyMCP)
+[![Bluesky](https://img.shields.io/badge/Bluesky-@only--mcp.com-0285ff?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/did:plc:bfxxkkpzyhr7tcmbw5owagj4)
+[![YouTube](https://img.shields.io/badge/YouTube-@onlymcp-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@onlymcp)
+[![Instagram](https://img.shields.io/badge/Instagram-onlymcp.official-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/onlymcp.official/)
+
 Works with Claude, ChatGPT, Claude Code, Codex, Cursor, Gemini CLI, Windsurf, Zed, Cline and any other MCP client.
 
 </div>
@@ -88,6 +93,14 @@ Questions about your account, your plan or an invoice: admin@only-mcp.com
 
 Every OnlyMCP release is listed under [Releases](https://github.com/Francesco070/onlymcp-community/releases) with
 what changed.
+
+### Follow OnlyMCP
+
+News and updates from OnlyMCP:
+[X](https://x.com/OnlyMCP) ·
+[Bluesky](https://bsky.app/profile/did:plc:bfxxkkpzyhr7tcmbw5owagj4) ·
+[YouTube](https://www.youtube.com/@onlymcp) ·
+[Instagram](https://www.instagram.com/onlymcp.official/)
 
 <div align="center">
 <br>
