@@ -15,7 +15,7 @@
 **[Releases](https://github.com/Francesco070/onlymcp-community/releases)**
 
 [![X](https://img.shields.io/badge/X-@OnlyMCP-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/OnlyMCP)
-[![Bluesky](https://img.shields.io/badge/Bluesky-@only--mcp.com-0285ff?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/did:plc:bfxxkkpzyhr7tcmbw5owagj4)
+[![Bluesky](https://img.shields.io/badge/Bluesky-@only--mcp.com-0285ff?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/only-mcp.com)
 [![YouTube](https://img.shields.io/badge/YouTube-@onlymcp-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@onlymcp)
 [![Instagram](https://img.shields.io/badge/Instagram-onlymcp.official-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/onlymcp.official/)
 [![Reddit](https://img.shields.io/badge/Reddit-u%2FOnlyMCP-ff4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/OnlyMCP/)
@@ -99,7 +99,7 @@ what changed.
 
 News and updates from OnlyMCP:
 [X](https://x.com/OnlyMCP) ·
-[Bluesky](https://bsky.app/profile/did:plc:bfxxkkpzyhr7tcmbw5owagj4) ·
+[Bluesky](https://bsky.app/profile/only-mcp.com) ·
 [YouTube](https://www.youtube.com/@onlymcp) ·
 [Instagram](https://www.instagram.com/onlymcp.official/) ·
 [Reddit](https://www.reddit.com/user/OnlyMCP/)
