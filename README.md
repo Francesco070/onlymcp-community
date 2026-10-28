@@ -18,6 +18,7 @@
 [![Bluesky](https://img.shields.io/badge/Bluesky-@only--mcp.com-0285ff?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/did:plc:bfxxkkpzyhr7tcmbw5owagj4)
 [![YouTube](https://img.shields.io/badge/YouTube-@onlymcp-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@onlymcp)
 [![Instagram](https://img.shields.io/badge/Instagram-onlymcp.official-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/onlymcp.official/)
+[![Reddit](https://img.shields.io/badge/Reddit-u%2FOnlyMCP-ff4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/OnlyMCP/)
 
 Works with Claude, ChatGPT, Claude Code, Codex, Cursor, Gemini CLI, Windsurf, Zed, Cline and any other MCP client.
 
@@ -100,7 +101,8 @@ News and updates from OnlyMCP:
 [X](https://x.com/OnlyMCP) ·
 [Bluesky](https://bsky.app/profile/did:plc:bfxxkkpzyhr7tcmbw5owagj4) ·
 [YouTube](https://www.youtube.com/@onlymcp) ·
-[Instagram](https://www.instagram.com/onlymcp.official/)
+[Instagram](https://www.instagram.com/onlymcp.official/) ·
+[Reddit](https://www.reddit.com/user/OnlyMCP/)
 
 <div align="center">
 <br>
