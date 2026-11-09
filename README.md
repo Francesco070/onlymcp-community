@@ -20,6 +20,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-onlymcp.official-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/onlymcp.official/)
 [![Reddit](https://img.shields.io/badge/Reddit-u%2FOnlyMCP-ff4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/OnlyMCP/)
 
+[![OnlyMCP MCP connector on Glama](https://glama.ai/mcp/connectors/com.only-mcp/onlymcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.only-mcp/onlymcp)
+[![OnlyMCP on mcptry](https://mcptry.com/badge/com.only-mcp/onlymcp)](https://mcptry.com/servers/com.only-mcp/onlymcp)
+[![OnlyMCP on Wellknown](https://wellknown.network/agents/onlymcp/badge.svg)](https://wellknown.network/agents/onlymcp)
+[![Mentioned in Awesome](https://awesome.re/mentioned-badge.svg)](https://github.com/punkpeye/awesome-remote-mcp-servers)
+
 Works with Claude, ChatGPT, Claude Code, Codex, Cursor, Gemini CLI, Windsurf, Zed, Cline and any other MCP client.
 
 </div>
@@ -71,6 +76,18 @@ claude mcp add --transport http --scope user onlymcp https://only-mcp.com/api/mc
 
 Setup for Codex, Cursor, Gemini CLI and every other client: [only-mcp.com/docs](https://only-mcp.com/docs). The CLI
 `npx onlymcp` imports existing skills, agents and memory from your disk.
+
+## Listed in
+
+The [official MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=com.only-mcp/onlymcp),
+[Glama](https://glama.ai/mcp/connectors/com.only-mcp/onlymcp),
+[mcptry](https://mcptry.com/servers/com.only-mcp/onlymcp),
+[Wellknown](https://wellknown.network/agents/onlymcp),
+[SaaSHub](https://www.saashub.com/only-mcp) and
+[awesome-remote-mcp-servers](https://github.com/punkpeye/awesome-remote-mcp-servers). The badges at the top show the
+live checks of Glama, mcptry and Wellknown.
+
+<a href="https://www.saashub.com/only-mcp?utm_source=badge&utm_campaign=badge&utm_content=only-mcp&badge_variant=color&badge_kind=approved"><img src="https://cdn-b.saashub.com/img/badges/approved-color.png?v=1" alt="Only-MCP on SaaSHub" width="150"></a>
 
 ## This repository
 
